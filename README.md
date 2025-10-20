@@ -65,7 +65,18 @@ This project represents a major milestone in my learning journey. It’s my firs
 
 ---
 
-**© 2024 Kayli Pike**
-
+## Credits
 Speacial thanks to Professor Bob Erickson for his instruction and assistance.
+All other code authored by Kayli Pike.
+
+---
+
+## Contact
+
+For questions, feedback, or collaboration inquiries, please contact:
+**Email:** [knpike@uvm.edu](mailto:knpike@uvm.edu)
+
+---
+
+**© 2024 Kayli Pike**
 
