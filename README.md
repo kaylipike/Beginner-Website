@@ -67,3 +67,5 @@ This project represents a major milestone in my learning journey. It’s my firs
 
 **© 2024 Kayli Pike**
 
+Speacial thanks to Professor Bob Erickson for his instruction and assistance.
+
