@@ -1,7 +1,9 @@
 # Beginner Website - About China
 
 **Final Project — Introduction to Website Development**
+
 **Author:** Kayli Pike
+
 **Live Site:** [https://knpike.w3.uvm.edu/cs1080/final/index.php](https://knpike.w3.uvm.edu/cs1080/final/index.php)
 
 ---
