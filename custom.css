@@ -1,6 +1,7 @@
 html {
     background-image: url('../images/background.jpg');
     padding: 2%;
+    background-attachment: fixed; 
 }
 
 body {
