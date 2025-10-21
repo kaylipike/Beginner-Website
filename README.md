@@ -74,7 +74,8 @@ All other code authored by Kayli Pike.
 ## Contact
 
 For questions, feedback, or collaboration inquiries, please contact:
-**Email:** [knpike@uvm.edu](mailto:knpike@uvm.edu)
+
+**Email:** [kayli.pike@gmail.com](mailto:kayli.pike@gmail.com)
 
 ---
 
