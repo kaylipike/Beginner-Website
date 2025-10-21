@@ -68,6 +68,7 @@ This project represents a major milestone in my learning journey. It’s my firs
 ## Credits
 Speacial thanks to Professor Bob Erickson for his instruction and assistance.
 All other code authored by Kayli Pike.
+All images used are cited with their links on the website.
 
 ---
 
